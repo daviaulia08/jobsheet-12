@@ -141,7 +141,7 @@ public class P15_Team10 {
                 jumlah++;
             }
         }
-    
+        
         System.out.println("Jumlah mahasiswa dengan total SKS kurang dari 20: " + jumlah);
     }
 }
