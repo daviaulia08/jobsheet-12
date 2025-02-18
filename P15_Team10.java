@@ -6,13 +6,8 @@ public class P15_Team10 {
     // - Davi Aulia (08)
     // - Rafi Abyantara (23)
     // - Rifqi Aries (26)
-
-    static String[][] dataMahasiswa = new String[50][5];
-    static int jumlahData = 0;
-
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int pilihan;
+    
+    static String[][] = new data[4][4];
 
         do {
             System.out.println("\n=== Sistem Pemantauan Data Mahasiswa ===");
@@ -144,4 +139,3 @@ public class P15_Team10 {
         
         System.out.println("Jumlah mahasiswa dengan total SKS kurang dari 20: " + jumlah);
     }
-}

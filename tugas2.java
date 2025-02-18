@@ -20,5 +20,6 @@ public class tugas2 {
         System.out.print("Perhitungan: ");
         int hasil = jumlahRekursif(n);
         System.out.println(" = " + hasil); 
+        System.out.println(" = " + hasil);
     }
 }
